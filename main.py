@@ -22,5 +22,6 @@ def ascii_to_bin(ascii: str):
     return final_string[:-1]
 
 
+
 if __name__ == '__main__':
     print(ascii_to_bin('hello there'))
